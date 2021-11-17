@@ -1,7 +1,7 @@
 # LC Money
 
 Projeto controle de finanças desenvolvido em React.
-💻 Live Preview https://gifted-villani-4680c8.netlify.app
+### 💻 Live Preview https://gifted-villani-4680c8.netlify.app
 
 
 
